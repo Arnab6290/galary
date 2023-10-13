@@ -1,0 +1,15 @@
+@media (min-width:100px) and (max-width:600px){
+    img{
+        height: 80px; width: 90px;
+    }
+}
+
+h2
+{
+    letter-spacing: 5px;
+}
+
+h2:hover
+{
+    background-color: lightblue;
+}
